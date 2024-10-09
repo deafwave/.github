@@ -42,4 +42,4 @@
 - [Private World Of Warcraft Classic Rotation Bot](https://github.com/deafwave/wow-scripts)
 
 ### Guildwars 1
-- Private Guildwars 1 Toolbox Plugins
+- Private GWToolbox Plugins
