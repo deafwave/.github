@@ -44,3 +44,6 @@
 
 ### Guildwars 1
 - Private GWToolbox Plugins
+
+### 9 Dragons
+- [Guides](https://github.com/deafwave/9dragons-guide/tree/main?tab=readme-ov-file#table-of-contents)
