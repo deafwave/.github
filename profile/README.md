@@ -5,10 +5,11 @@
 - [Auto Amoxliatl](https://discord.com/channels/798214351899197491/1292130699138170890/1292130699138170890)
 - [Mastering Mixology](https://discord.com/channels/798214351899197491/1289787932424536064/1289787932424536064)
 - [Sulphur Nagua](https://discord.com/channels/798214351899197491/1294419278170423408/1294419278170423408)
+- [Hueycoatl](https://discord.com/channels/798214351899197491/1294229700901732363)
+- [Vorkath](https://discord.com/channels/798214351899197491/1307501843416485930)
 
 #### WIP
-- [Phosani](https://github.com/deafwave/osrs-phosani)
-- Huey
+- [Phosani (private testing phase to ensure no bans)](https://github.com/deafwave/osrs-phosani)
 
 #### Paused
 - [Bruhsailer Builder](https://github.com/deafwave/osrs-hcim-builder)
