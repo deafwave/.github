@@ -1,4 +1,4 @@
-# Runescape
+## Runescape
 ### Projects
 #### Released
 - [1t Karambwans](https://discord.com/channels/798214351899197491/1250571698718118031/1250571698718118031)
@@ -30,12 +30,12 @@
 - [Deafwave Scripts API](https://github.com/deafwave/osrs-botmaker-api)
 - [Example Scripts with DWS API](https://github.com/deafwave/osrs-botmaker-scripts)
 
-
-# Others
-
-### Path of Exile
-- [ExileAPI Pathfind Sanctum Plugin](https://github.com/ChandlerFerry/PathfindSanctum)
+## Path of Exile
+- [ExileCore2 Pathfind Sanctum PLugin](https://github.com/deafwave/PathfindSanctum-PoE2)
+- [ExileCore Pathfind Sanctum Plugin](https://github.com/ChandlerFerry/PathfindSanctum)
 - [(DEPRECATED)3.24 Div Card Optimizer](https://github.com/ChandlerFerry/POE-Div-Card-Optimizer)
+
+## Others
 
 ### Last Epoch
 - [Runemaster Rotation Bot](https://github.com/ChandlerFerry/Last-Epoch-Macro)
