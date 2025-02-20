@@ -1,3 +1,4 @@
+<!-- TODO: Explanation of why I believe that creating tools for games is one of the best ways to advance your knowledge in programming -->
 ## Runescape
 ### Projects
 #### Released
@@ -32,13 +33,14 @@
 
 ## Path of Exile
 - [ExileCore2 Pathfind Sanctum PLugin](https://github.com/deafwave/PathfindSanctum-PoE2)
-- [ExileCore Pathfind Sanctum Plugin](https://github.com/ChandlerFerry/PathfindSanctum)
+- [ExileApi Pathfind Sanctum Plugin](https://github.com/deafwave/PathfindSanctum)
 - [(DEPRECATED)3.24 Div Card Optimizer](https://github.com/ChandlerFerry/POE-Div-Card-Optimizer)
+- [(DEPRECATED)3.26 Dust Calculator](https://github.com/ChandlerFerry/POE-Dust-Calculator)
 
 ## Others
 
 ### Last Epoch
-- [Runemaster Rotation Bot](https://github.com/ChandlerFerry/Last-Epoch-Macro)
+- [Runemaster Rotation Bot](https://github.com/deafwave/Last-Epoch-Macro)
 
 ### World of Warcraft
 - [Private World Of Warcraft Classic Rotation Bot](https://github.com/deafwave/wow-scripts)
@@ -46,5 +48,9 @@
 ### Guildwars 1
 - Private GWToolbox Plugins
 
+### Minecraft
+- [CC:T Bees](https://github.com/deafwave/minecraft-bees)
+
 ### 9 Dragons
 - [Guides](https://github.com/deafwave/9dragons-guide/tree/main?tab=readme-ov-file#table-of-contents)
+
