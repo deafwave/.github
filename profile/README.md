@@ -35,7 +35,7 @@
 - [ExileCore2 Pathfind Sanctum PLugin](https://github.com/deafwave/PathfindSanctum-PoE2)
 - [ExileApi Pathfind Sanctum Plugin](https://github.com/deafwave/PathfindSanctum)
 - [(DEPRECATED)3.24 Div Card Optimizer](https://github.com/ChandlerFerry/POE-Div-Card-Optimizer)
-- [(DEPRECATED)3.26 Dust Calculator](https://github.com/ChandlerFerry/POE-Dust-Calculator)
+- [3.26 Dust Calculator](https://github.com/ChandlerFerry/POE-Dust-Calculator)
 
 ## Others
 
