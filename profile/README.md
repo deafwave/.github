@@ -1,4 +1,8 @@
-<!-- TODO: Explanation of why I believe that creating tools for games is one of the best ways to advance your knowledge in programming -->
+# Deafwave
+This organization was established to help aspiring developers learn via creating tools for games.
+
+Developing tools for games offers a unique and engaging way to accelerate your programming skills. Unlike more traditional projects, such as building a calculator, game Quality of Life/Bot tools provide a low barrier of entry with immediate, tangible feedback and a rewarding sense of accomplishment. This rapid dopamine response keeps you motivated and encourages faster learning, making it an ideal path for both entry-level and experienced developers looking to advance their knowledge.
+
 ## Runescape
 ### Projects
 #### Released
