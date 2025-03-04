@@ -12,12 +12,12 @@ Developing tools for games offers a unique and engaging way to accelerate your p
 - [Sulphur Nagua](https://discord.com/channels/798214351899197491/1294419278170423408/1294419278170423408)
 - [Hueycoatl](https://discord.com/channels/798214351899197491/1294229700901732363)
 - [Vorkath](https://discord.com/channels/798214351899197491/1307501843416485930)
+- [Bruhsailer Builder](https://discord.com/channels/798214351899197491/1334455227629441085)
 
 #### WIP
 - [Phosani (private testing phase to ensure no bans)](https://github.com/deafwave/osrs-phosani)
 
 #### Paused
-- [Bruhsailer Builder](https://github.com/deafwave/osrs-hcim-builder)
 - [Account Manager](https://github.com/deafwave/osrs-account-manager)
 - Alchemical Hydra
 
