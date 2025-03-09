@@ -5,14 +5,16 @@ Developing tools for games offers a unique and engaging way to accelerate your p
 
 ## Runescape
 ### Projects
-#### Released
-- [1t Karambwans](https://discord.com/channels/798214351899197491/1250571698718118031/1250571698718118031)
-- [Auto Amoxliatl](https://discord.com/channels/798214351899197491/1292130699138170890/1292130699138170890)
-- [Mastering Mixology](https://discord.com/channels/798214351899197491/1289787932424536064/1289787932424536064)
-- [Sulphur Nagua](https://discord.com/channels/798214351899197491/1294419278170423408/1294419278170423408)
-- [Hueycoatl](https://discord.com/channels/798214351899197491/1294229700901732363)
-- [Vorkath](https://discord.com/channels/798214351899197491/1307501843416485930)
-- [Bruhsailer Builder](https://discord.com/channels/798214351899197491/1334455227629441085)
+#### Released (Free)
+- Hobewan - 1t karambwan cooker [Discord](https://discord.com/channels/798214351899197491/1250571698718118031/1250571698718118031)
+ 
+#### Released (Paid)
+- Bik - Amoxliatl [ko-fi](https://ko-fi.com/s/bffc07942e) [Discord](https://discord.com/channels/798214351899197491/1292130699138170890/1292130699138170890)
+- Bik - Mastering Mixology [ko-fi](https://ko-fi.com/s/59d11e445e) [Discord](https://discord.com/channels/798214351899197491/1289787932424536064/1289787932424536064)
+- Khoguu - Sulphur Nagua [ko-fi](https://ko-fi.com/s/983be7a13b) [Discord](https://discord.com/channels/798214351899197491/1294419278170423408/1294419278170423408)
+- Bik - Hueycoatl [ko-fi](https://ko-fi.com/s/8674909d44) [Discord](https://discord.com/channels/798214351899197491/1294229700901732363)
+- Dran - Vorkath [ko-fi](https://ko-fi.com/s/9e3cf931f5) [Discord](https://discord.com/channels/798214351899197491/1307501843416485930)
+- Bik - Bruhsailer Builder [ko-fi](https://ko-fi.com/s/effc8019ee) [Discord](https://discord.com/channels/798214351899197491/1334455227629441085)
 
 #### WIP
 - [Phosani (private testing phase to ensure no bans)](https://github.com/deafwave/osrs-phosani)
