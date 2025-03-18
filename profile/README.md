@@ -40,8 +40,10 @@ Developing tools for games offers a unique and engaging way to accelerate your p
 ## Path of Exile
 - [ExileCore2 Pathfind Sanctum PLugin](https://github.com/deafwave/PathfindSanctum-PoE2)
 - [ExileApi Pathfind Sanctum Plugin](https://github.com/deafwave/PathfindSanctum)
+- [ExileApi Ultimatum Check Plugin](https://github.com/deafwave/UltimatumCheck)
 - [(DEPRECATED)3.24 Div Card Optimizer](https://github.com/ChandlerFerry/POE-Div-Card-Optimizer)
-- [3.26 Dust Calculator](https://github.com/ChandlerFerry/POE-Dust-Calculator)
+- [3.25 Dust Calculator](https://github.com/ChandlerFerry/POE-Dust-Calculator)
+- [3.25 Savage Hit Calculator](https://github.com/deafwave/POE-savage-hit)
 
 ## Others
 
