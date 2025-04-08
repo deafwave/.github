@@ -37,15 +37,19 @@ Developing tools for games offers a unique and engaging way to accelerate your p
 
 ## Path of Exile
 - ExileCore2 Pathfind Sanctum Plugin [🌐 GitHub](https://github.com/deafwave/PathfindSanctum-PoE2)
-- ExileApi Pathfind Sanctum Plugin [🌐 GitHub](https://github.com/deafwave/PathfindSanctum)
-- ExileApi Ultimatum Check Plugin [🌐 GitHub](https://github.com/deafwave/UltimatumCheck)
+- ExileApi Pathfind Sanctum Plugin [🌐 GitHub](https://github.com/deafwave/PathfindSanctum) [🔒Automated GitHub](https://github.com/deafwave/PathfindSanctum-Automation)
+- ExileApi Ultimatum Check Plugin [🌐 GitHub](https://github.com/deafwave/UltimatumCheck) [Automated GitHub](https://github.com/deafwave/UltimatumCheck-Automation)
 - ExileApi Beast Proximity Alert Plugin [🌐 GitHub](https://github.com/deafwave/ProximityAlert)
-- (DEPRECATED) 3.24 Div Card Optimizer [🌐 GitHub](https://github.com/ChandlerFerry/POE-Div-Card-Optimizer)
-- 3.25 Dust Calculator [🌐 GitHub](https://github.com/ChandlerFerry/POE-Dust-Calculator)
+- ExileApi Menagerie Plugin [🌐 GitHub](https://github.com/FulltimeWife/AntiStupidBeast)
+- (DEPRECATED) 3.24 Div Card Optimizer [🌐 GitHub](https://github.com/deafwave/POE-Div-Card-Optimizer) [🌐 Optimized By NerdyJoe](https://github.com/nerdyjoe314/divinationscarabs)
+- 3.25 Dust Calculator Macro [🌐 GitHub](https://github.com/ChandlerFerry/POE-Dust-Calculator)
 - 3.25 Savage Hit Calculator [🌐 GitHub](https://github.com/deafwave/POE-savage-hit)
 
 ## Last Epoch
-- Website [🌐 Website](http://lastepoch.xyz/) [🌐 GitHub](https://github.com/deafwave/le-website)
+- Trade Website [🌐 Website](http://lastepoch.xyz/) [🔒 GitHub](https://github.com/deafwave/le-website)
+- Trade Server [🔒 GitHub](https://github.com/deafwave/le-server)
+- Trade Item Parser [🔒 GitHub](https://github.com/deafwave/le-parser)
+- Trade Mod [🔒 GitHub](https://github.com/deafwave/le-bazaar-websocket)
 - Runemaster Rotation Macro [🌐 GitHub](https://github.com/deafwave/Last-Epoch-Macro)
 - (DEPRECATED) Bazaar Image Collector [🌐 GitHub](https://github.com/deafwave/le-collector)
 
