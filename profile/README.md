@@ -4,10 +4,6 @@ This organization was established to help aspiring developers learn via creating
 
 Developing tools for games offers a unique and engaging way to accelerate your programming skills. Unlike more traditional projects, such as building a calculator, game Quality of Life/Bot tools provide a low barrier of entry with immediate, tangible feedback and a rewarding sense of accomplishment. This rapid dopamine response keeps you motivated and encourages faster learning, making it an ideal path for both entry-level and experienced developers looking to advance their knowledge.
 
-**Legend:**
-- 🌐 - Public resource
-- 🔒 - Private resource (requires access/invitation)
-
 ## Runescape
 
 ### Projects
@@ -66,3 +62,8 @@ Developing tools for games offers a unique and engaging way to accelerate your p
 
 ### 9 Dragons
 - Guides [🌐 GitHub](https://github.com/deafwave/9dragons-guide/tree/main?tab=readme-ov-file#table-of-contents)
+
+---
+#### Legend
+- 🌐 - Public resource
+- 🔒 - Private resource (requires access/invitation)
