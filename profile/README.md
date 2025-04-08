@@ -37,8 +37,8 @@ Developing tools for games offers a unique and engaging way to accelerate your p
 
 ## Path of Exile
 - ExileCore2 Pathfind Sanctum Plugin [🌐 GitHub](https://github.com/deafwave/PathfindSanctum-PoE2)
-- ExileApi Pathfind Sanctum Plugin [🌐 GitHub](https://github.com/deafwave/PathfindSanctum) [🔒Automated GitHub](https://github.com/deafwave/PathfindSanctum-Automation)
-- ExileApi Ultimatum Check Plugin [🌐 GitHub](https://github.com/deafwave/UltimatumCheck) [Automated GitHub](https://github.com/deafwave/UltimatumCheck-Automation)
+- ExileApi Pathfind Sanctum Plugin [🌐 GitHub](https://github.com/deafwave/PathfindSanctum) [🔒 Automated GitHub](https://github.com/deafwave/PathfindSanctum-Automation)
+- ExileApi Ultimatum Check Plugin [🌐 GitHub](https://github.com/deafwave/UltimatumCheck) [🔒 Automated GitHub](https://github.com/deafwave/UltimatumCheck-Automation)
 - ExileApi Beast Proximity Alert Plugin [🌐 GitHub](https://github.com/deafwave/ProximityAlert)
 - ExileApi Menagerie Plugin [🌐 GitHub](https://github.com/FulltimeWife/AntiStupidBeast)
 - (DEPRECATED) 3.24 Div Card Optimizer [🌐 GitHub](https://github.com/deafwave/POE-Div-Card-Optimizer) [🌐 Optimized By NerdyJoe](https://github.com/nerdyjoe314/divinationscarabs)
