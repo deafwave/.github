@@ -18,9 +18,10 @@ Developing tools for games offers a unique and engaging way to accelerate your p
 - Bik - Hueycoatl [🌐 ko-fi](https://ko-fi.com/s/8674909d44) [🔒 Discord](https://discord.com/channels/798214351899197491/1294229700901732363)
 - Dran - Vorkath [🌐 ko-fi](https://ko-fi.com/s/9e3cf931f5) [🔒 Discord](https://discord.com/channels/798214351899197491/1307501843416485930)
 - Bik - Bruhsailer Builder [🌐 ko-fi](https://ko-fi.com/s/effc8019ee) [🔒 Discord](https://discord.com/channels/798214351899197491/1334455227629441085)
+- Khoguu - Phosani's Nightmare [🌐 ko-fi](https://ko-fi.com/s/f477523c4f) [🔒 Discord](https://discord.com/channels/798214351899197491/<TODO>) [🔒 GitHub](https://github.com/deafwave/osrs-phosani)
 
 #### WIP
-- Phosani (private testing phase to ensure no bans) [🔒 GitHub](https://github.com/deafwave/osrs-phosani)
+- Khoguu - Chambers of Xeric
 
 #### Private
 - Copilot Flipper [🔒 GitHub](https://github.com/deafwave/osrs-flipper)
