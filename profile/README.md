@@ -21,7 +21,7 @@ Developing tools for games offers a unique and engaging way to accelerate your p
 - Khoguu - Phosani's Nightmare [🌐 ko-fi](https://ko-fi.com/s/f477523c4f) [🔒 Discord](https://discord.com/channels/798214351899197491/<TODO>) [🔒 GitHub](https://github.com/deafwave/osrs-phosani)
 
 #### WIP
-- Khoguu & Bik - Chambers of Xeric (2/13 rooms)
+- Khoguu & Bik - Chambers of Xeric (3/13 rooms)
 
 #### Private
 - Copilot Flipper [🔒 GitHub](https://github.com/deafwave/osrs-flipper)
